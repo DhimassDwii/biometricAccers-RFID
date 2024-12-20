@@ -201,15 +201,3 @@ void enrollRFID() {
   vTaskDelay(100 / portTICK_PERIOD_MS);
   Serial.println("Exciting enroll RFID Mode");
 }
-
-
-
-void haha(){
-  lksfougasoifgoias;
-  jsagfiuagf;
-}
-
-
-fghjklkjhg
-lkjyhjkl
-
